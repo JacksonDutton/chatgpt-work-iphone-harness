@@ -1,0 +1,9 @@
+PrecisionMouse.app/
+PrecisionMouse
+mouse-bridge/
+build/
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+
